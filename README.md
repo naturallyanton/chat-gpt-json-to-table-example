@@ -10,7 +10,7 @@ Three prompts were used:
 - `Remove the type column`
 - `Add an "Example" column with 30px squares, with the color as background and in a format compatible with a GitHub README file`
 
-The examples were generated with the prompt "[...] using a format compatible with a README file for GitHub". The `placeholder.com` service wasn't specified.
+Using the `placeholder.com` service wasn't specified.
 
 ## Result
 
