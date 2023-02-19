@@ -5,7 +5,7 @@ This example shows how ChatGPT was used to generate a table from JSON data, usin
 The [example JSON file](./example-tokens.json)
  contains design tokens (key/value pairs representing colors) and was exported with [Tokens Studio for Figma](https://tokens.studio).
 
-Three prompts were used:
+Three prompts were used to format the data and create the examples:
 - `Group colours, like gray.100, gray.200... using the parent "gray" in bold as a heading`
 - `Remove the type column`
 - `Add an "Example" column with 30px squares, with the color as background and in a format compatible with a GitHub README file`
