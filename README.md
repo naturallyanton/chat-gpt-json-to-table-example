@@ -2,7 +2,8 @@
 
 This example shows how ChatGPT was used to generate a table from JSON data, using natural language to adjust the formatting and the presentation.
 
-The example JSON file contains design tokens (key/value pairs representing colors) and was exported with [Tokens Studio for Figma](https://tokens.studio).
+The [example JSON file](./example-tokens.json)
+ contains design tokens (key/value pairs representing colors) and was exported with [Tokens Studio for Figma](https://tokens.studio).
 
 Three prompts were used:
 - `Group colours, like gray.100, gray.200... using the parent "gray" in bold as a heading`
